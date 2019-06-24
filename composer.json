@@ -1,5 +1,5 @@
 {
-    "name": "zen/types",
+    "name": "zenexjp/types",
     "description": "A php library to handle basic types like string, non empty string, positive integer and so on.",
     "authors": [
         {
