@@ -1,0 +1,8 @@
+{
+    "name": "zenhiro/types",
+    "description": "A php library to handle basic types like string, non empty string, positive integer and so on.",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
