@@ -4,7 +4,9 @@
     "authors": [
         {
             "name": "Ali Masood",
-            "email": "ali@zenex.co.jp"
+            "email": "ali@zenex.co.jp",
+            "homepage": "https://zenex.co.jp",
+            "role": "Lead Developer"
         }
     ],
     "type": "library",
