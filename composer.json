@@ -1,8 +1,25 @@
 {
-    "name": "zenhiro/types",
+    "name": "zen/types",
     "description": "A php library to handle basic types like string, non empty string, positive integer and so on.",
+    "authors": [
+        {
+            "name": "Ali Masood",
+            "email": "ali@zenex.co.jp"
+        }
+    ],
     "type": "library",
     "license": "MIT",
+    "require": {
+        "php": ">=7.3.0"
+    },
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^8.3@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "zen/types": "src/"
+        }
+    }
 }
