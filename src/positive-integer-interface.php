@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Zen\Types;
+namespace zen\types;
 
 
 interface PositiveIntegerInterface
